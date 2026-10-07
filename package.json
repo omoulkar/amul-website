@@ -1,0 +1,19 @@
+{
+  "name": "amul-kool-rose-showcase",
+  "version": "1.0.0",
+  "description": "Amul Kool Rose Interactive Scroll Animation and Product Showcase",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "amul",
+    "scroll-animation",
+    "canvas",
+    "scrollytelling",
+    "interactive"
+  ],
+  "author": "omoulkar",
+  "license": "MIT"
+}
